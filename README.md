@@ -1,2 +1,3 @@
 # Sppu-Exam
-this is first repositary
+this is my first repositary
+<br> Author Tejas Nikas
